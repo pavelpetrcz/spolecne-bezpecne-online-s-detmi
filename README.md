@@ -11,7 +11,8 @@ Kromě materiálů pro rodiče a inspirujících článků, podcastů a materiá
 
 
 ## Materiály pro rodiče
-### Nebojte se internetu - https://www.nebojteseinternetu.cz/
+### Nebojte se internetu 
+- https://www.nebojteseinternetu.cz/
 Sada deseti krátkých videí jak se bezpečně chovat na internetu. Videa jsou staršího data, nicméně informace v nich obsažená jsou platná do dnes. Rodiče nebo obecně dospěláci zde získají základní návyky pro pohyb v online prostoru. Pod každou epizodou jsou textově shrnuté informace a vysvětlené termíny.
 
 ### Jak na internet - https://www.jaknainternet.cz/
