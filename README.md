@@ -12,11 +12,11 @@ Kromě materiálů pro rodiče a inspirujících článků, podcastů a materiá
 
 ## Materiály pro rodiče
 ## Webové stránky
-### Nebojte se internetu 
-- https://www.nebojteseinternetu.cz/
+### [Nebojte se internetu](https://www.nebojteseinternetu.cz)
 Sada deseti krátkých videí jak se bezpečně chovat na internetu. Videa jsou staršího data, nicméně informace v nich obsažená jsou platná do dnes. Rodiče nebo obecně dospěláci zde získají základní návyky pro pohyb v online prostoru. Pod každou epizodou jsou textově shrnuté informace a vysvětlené termíny.
 
-### Jak na internet - https://www.jaknainternet.cz/
+### [Jak na internet](https://www.jaknainternet.cz/)
+Série videí, které jste mohli zahlédnout v přímé time na kanálech České televize. Hlavní roli si zahrál herec Zach a jednoduchým způsobem publiku vysvětluje základní termíny a jejich souvislosti.
 
 ### NUKIB - Národní úřad pro kybernetickou a internetovou bezpečnost - https://www.nukib.cz/cs/kyberneticka-bezpecnost/vzdelavani/verejnost/
 Česká republika má to štěstí, že mezi státními orgány se vyskytuje také úřad pro potírání a prevenci kybernetické bezpečnosti. Jedním z jejich úkolů j provádět osvětu bez širokou veřejností. NUKIB tedy nabízí ceou řadu forem vzdělání.
@@ -48,4 +48,5 @@ Scratch Junior je obdoba klasického Scratch viz výše od MIT. Rozdíl je v tom
 
 ### Kouzelná školka - https://decko.ceskatelevize.cz/kouzelna-skolka
 
+### [Alík.cz](https://www.alik.cz)
 
