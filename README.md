@@ -18,6 +18,8 @@ Sada deseti krátkých videí jak se bezpečně chovat na internetu. Videa jsou 
 ### [Jak na internet](https://www.jaknainternet.cz/)
 Série videí, které jste mohli zahlédnout v přímé time na kanálech České televize. Hlavní roli si zahrál herec Zach a jednoduchým způsobem publiku vysvětluje základní termíny a jejich souvislosti.
 
+### [SaferInternet](https://www.saferinternet.cz/)
+
 ### [NUKIB - Národní úřad pro kybernetickou a internetovou bezpečnost - vzdělání pro verejnost](https://www.nukib.cz/cs/kyberneticka-bezpecnost/vzdelavani/verejnost/)
 Česká republika má to štěstí, že mezi státními orgány se vyskytuje také úřad pro potírání a prevenci kybernetické bezpečnosti. Jedním z jejich úkolů je provádět osvětu mezi širokou veřejností.
 - jednoduché karty ve formě PDF vhodné i pro tisk rozdělené podle cílových skupin - https://www.nukib.cz/cs/kyberneticka-bezpecnost/vzdelavani/verejnost/
@@ -35,8 +37,9 @@ Pokud vaše dítko propadne hrám, poskytne vám PEGI skóre jasný přehled o t
 ### [Sharenting: rozmyslete si, co o vašich dětech vystavíte na internet](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkubXVqcm96aGxhcy5jei9yc3MvcG9kY2FzdC85Mzg1ZWY4NC1jNzEwLTM4ZTAtYjczMS0xMjJlYjIyNmZkNGMucnNz/episode/YTZjY2U3NWEtNDY3Mi00OTQwLWEzMzctN2NkZTU5ZDQ4MTM2?ep=1)
 Rodiče často sdílí informace, fotografie a další obsah na online sociálních sítích. Ale nedomýšlejí důsledky svého jednání. Asi by nikdo z nás nechtěl najít online svoje fotografie jak se jako batole koupe ve vaničce nebo něco o dost možná ponižujícího. Mluvte s dětmi o tom co sdílíte, možná budete překvapeni jak přesně se dovedou rozhodnout.
 
-## Tipy na software
-
+## Učení a vzdělávání online
+### [Duolingo](https://www.duolingo.com/)
+Výborný pomocník pro procvičování jazykových znalostí. Ocení primárně rodiče - jak z pohledu, že si sami mohou trénovat jazyky, tak kvůli svým dětem, které dostanou další nástroj, kde si lze osvojit určitou úroveň znalosti cizích jazyků.
 
 ## Zábava online
 ### [Scratch](https://scratch.mit.edu/) 
@@ -45,9 +48,13 @@ Zábavné programování pro děti ve věku od 7 let. Přístupnou formou posouv
 ### [Scratch Junior](https://www.scratchjr.org/) 
 Scratch Junior je obdoba klasického Scratch viz výše. Rozdíl je v tom, že nástroj cílí na děti ještě o něco mladší. Autoři uvádějí doporučený věk od 5 let. Rozhraní je jednodušší, celkově je aplikace zjednodušená, ale lze dosáhnout stejně zábavné aktivity jako se starším bráškou Scratch.
 
-### [Déčko Svět ](https://decko.ceskatelevize.cz/hry) 
+### [Déčko Svět ](https://decko.ceskatelevize.cz/hry)
+Déčko je náš kamarád už delší dobu primárně kvůli Večerníčku. Nicméně v poslední době se kamarádíme i s webem kvůli jeho hrám, které jsou z dílny veřejnoprávní České televize, tudíž se lze domnívat, že se jedná o nezávadný zdroj online zábavy.
 
 ### [Kouzelná školka](https://decko.ceskatelevize.cz/kouzelna-skolka) 
 
 ### [Alík.cz](https://www.alik.cz)
+Alík je sociální síť pro děti do 18 let s funkcionaltami 
 
+### [Záchranná stanice živočichů Makov](https://www.makov.cz/webkamera.html)
+Děti a dospelí se zájmem o přírodu a živočichy by mohli ocenit  stanici za to, že můžeme nahlédnout do soukromí různých zvířat.
