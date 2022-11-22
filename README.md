@@ -34,7 +34,7 @@ Série videí, které jste mohli zahlédnout v přímé time na kanálech Česk�
 Pokud vaše dítko propadne hrám, poskytne vám PEGI skóre jasný přehled o tom jestli je hra vhodná k věku vašeho dítě nebo ne. Jednoduchou formou čísel a barev ve škále od zelené - vhodné pro malé děti až po sytě červenou - hry s obsahem pouze pro dospělé tak v okamžiku vyhodnotíte, zda je hra pro vaší ratolest vhodná nebo nikoliv.
 
 ## Knihy
-### [Hry, sítě, porno - Jan Melvil Publishing]((https://www.melvil.cz/kniha-hry-site-porno/)
+### [Hry, sítě, porno - Jan Melvil Publishing](https://www.melvil.cz/kniha-hry-site-porno/)
 
 ## Tipy na zajímavé podcasty
 ### [Sharenting: rozmyslete si, co o vašich dětech vystavíte na internet](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkubXVqcm96aGxhcy5jei9yc3MvcG9kY2FzdC85Mzg1ZWY4NC1jNzEwLTM4ZTAtYjczMS0xMjJlYjIyNmZkNGMucnNz/episode/YTZjY2U3NWEtNDY3Mi00OTQwLWEzMzctN2NkZTU5ZDQ4MTM2?ep=1)
