@@ -51,7 +51,8 @@ Scratch Junior je obdoba klasického Scratch viz výše. Rozdíl je v tom, že n
 ### [Déčko Svět ](https://decko.ceskatelevize.cz/hry)
 Déčko je náš kamarád už delší dobu primárně kvůli Večerníčku. Nicméně v poslední době se kamarádíme i s webem kvůli jeho hrám, které jsou z dílny veřejnoprávní České televize, tudíž se lze domnívat, že se jedná o nezávadný zdroj online zábavy.
 
-### [Kouzelná školka](https://decko.ceskatelevize.cz/kouzelna-skolka) 
+### [Kouzelná školka](https://decko.ceskatelevize.cz/kouzelna-skolka)
+Kouzelná školka je už dnes legenda mezi pořady, které vysílá Česká televize pro nejmenší. V moderním pojetí se i tento pořad dočkal svých stránek na webu Déčka. Najdete zde pro nejmenší hry, videa, písničky a soutěže.
 
 ### [Alík.cz](https://www.alik.cz)
 Alík je sociální síť pro děti do 18 let s funkcionaltami 
