@@ -33,6 +33,9 @@ Série videí, které jste mohli zahlédnout v přímé time na kanálech Česk�
 ### [PEGI.org - Pan European Game Information](https://pegi.info/)
 Pokud vaše dítko propadne hrám, poskytne vám PEGI skóre jasný přehled o tom jestli je hra vhodná k věku vašeho dítě nebo ne. Jednoduchou formou čísel a barev ve škále od zelené - vhodné pro malé děti až po sytě červenou - hry s obsahem pouze pro dospělé tak v okamžiku vyhodnotíte, zda je hra pro vaší ratolest vhodná nebo nikoliv.
 
+## Knihy
+### [Hry, sítě, porno - Jan Melvil Publishing]([Hry, sítě, porno](https://www.melvil.cz/kniha-hry-site-porno/))
+
 ## Tipy na zajímavé podcasty
 ### [Sharenting: rozmyslete si, co o vašich dětech vystavíte na internet](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkubXVqcm96aGxhcy5jei9yc3MvcG9kY2FzdC85Mzg1ZWY4NC1jNzEwLTM4ZTAtYjczMS0xMjJlYjIyNmZkNGMucnNz/episode/YTZjY2U3NWEtNDY3Mi00OTQwLWEzMzctN2NkZTU5ZDQ4MTM2?ep=1)
 Rodiče často sdílí informace, fotografie a další obsah na online sociálních sítích. Ale nedomýšlejí důsledky svého jednání. Asi by nikdo z nás nechtěl najít online svoje fotografie jak se jako batole koupe ve vaničce nebo něco o dost možná ponižujícího. Mluvte s dětmi o tom co sdílíte, možná budete překvapeni jak přesně se dovedou rozhodnout.
@@ -41,13 +44,14 @@ Rodiče často sdílí informace, fotografie a další obsah na online sociáln�
 ### [Duolingo](https://www.duolingo.com/)
 Výborný pomocník pro procvičování jazykových znalostí. Ocení primárně rodiče - jak z pohledu, že si sami mohou trénovat jazyky, tak kvůli svým dětem, které dostanou další nástroj, kde si lze osvojit určitou úroveň znalosti cizích jazyků.
 
-## Zábava online
+
 ### [Scratch](https://scratch.mit.edu/) 
 Zábavné programování pro děti ve věku od 7 let. Přístupnou formou posouvání barevných bloků si můžete vyzkoušet a naučit se myslet jako programátor. Přemýšlet nad tím jak dosáhnout vytyčeného cíle za pomocí logických operátorů, smyček, apod. Staňte se na chvilku skutečnými programátory a při té příležitosti vyrobte interaktivní dílo.
 
 ### [Scratch Junior](https://www.scratchjr.org/) 
 Scratch Junior je obdoba klasického Scratch viz výše. Rozdíl je v tom, že nástroj cílí na děti ještě o něco mladší. Autoři uvádějí doporučený věk od 5 let. Rozhraní je jednodušší, celkově je aplikace zjednodušená, ale lze dosáhnout stejně zábavné aktivity jako se starším bráškou Scratch.
 
+## Zábava online
 ### [Déčko Svět ](https://decko.ceskatelevize.cz/hry)
 Déčko je náš kamarád už delší dobu primárně kvůli Večerníčku. Nicméně v poslední době se kamarádíme i s webem kvůli jeho hrám, které jsou z dílny veřejnoprávní České televize, tudíž se lze domnívat, že se jedná o nezávadný zdroj online zábavy.
 
