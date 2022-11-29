@@ -33,6 +33,12 @@ Série videí, které jste mohli zahlédnout v přímé time na kanálech Česk�
 ### [PEGI.org - Pan European Game Information](https://pegi.info/)
 Pokud vaše dítko propadne hrám, poskytne vám PEGI skóre jasný přehled o tom jestli je hra vhodná k věku vašeho dítě nebo ne. Jednoduchou formou čísel a barev ve škále od zelené - vhodné pro malé děti až po sytě červenou - hry s obsahem pouze pro dospělé tak v okamžiku vyhodnotíte, zda je hra pro vaší ratolest vhodná nebo nikoliv.
 
+### Marty Is dead - vzdělávací web o kyberšikaněhttps://martyisdead.mall.tv/vyuka/
+
+## Videa, seriály, filmy
+##[Marty Is dead](https://www.mall.tv/martyisdead/vsechny-epizody)
+Seriál krátkých epizod s tematikou kyberšikany. Celý příběh poutavým způsobem zprostředkuje rodičům klíčovou zprávu o tom, že není jedno co děti dělají online. Seriál získal cenu Emmy.
+
 ## Knihy
 -  [Hry, sítě, porno - Jan Melvil Publishing](https://www.melvil.cz/kniha-hry-site-porno/)
 
