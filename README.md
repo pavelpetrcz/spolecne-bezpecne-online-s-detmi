@@ -18,8 +18,6 @@ Sada deseti krátkých videí jak se bezpečně chovat na internetu. Videa jsou 
 ### [Jak na internet](https://www.jaknainternet.cz/)
 Série videí, které jste mohli zahlédnout v přímé time na kanálech České televize. Hlavní roli si zahrál herec Zach a jednoduchým způsobem publiku vysvětluje základní termíny a jejich souvislosti.
 
-### [SaferInternet](https://www.saferinternet.cz/)
-
 ### [NUKIB - Národní úřad pro kybernetickou a internetovou bezpečnost - vzdělání pro verejnost](https://www.nukib.cz/cs/kyberneticka-bezpecnost/vzdelavani/verejnost/)
 Česká republika má to štěstí, že mezi státními orgány se vyskytuje také úřad pro potírání a prevenci kybernetické bezpečnosti. Jedním z jejich úkolů je provádět osvětu mezi širokou veřejností.
 - jednoduché karty ve formě PDF vhodné i pro tisk rozdělené podle cílových skupin - https://www.nukib.cz/cs/kyberneticka-bezpecnost/vzdelavani/verejnost/
@@ -39,6 +37,9 @@ Obsahový web s příručkou "Jak na internet" pro starší děti už o skutečn
 ## Videa, seriály, filmy
 ## [Marty Is dead](https://www.mall.tv/martyisdead/vsechny-epizody)
 Seriál krátkých epizod s tematikou kyberšikany. Celý příběh poutavým způsobem zprostředkuje rodičům klíčovou zprávu o tom, že není jedno co děti dělají online. Seriál získal cenu Emmy.
+
+## [V Síti](https://www.csfd.cz/film/720753-v-siti/prehled/)
+Film natočený Vítem Klusákem a jeho týmem v roce 2020 otevřel diskuzi o online zneužívání dětí a dosud bublající problém na českém internetu. 
 
 ## Knihy
 -  [Hry, sítě, porno - Jan Melvil Publishing](https://www.melvil.cz/kniha-hry-site-porno/)
@@ -70,3 +71,6 @@ Alík je sociální síť pro děti do 18 let s funkcionaltami
 
 ### [Záchranná stanice živočichů Makov](https://www.makov.cz/webkamera.html)
 Děti a dospelí se zájmem o přírodu a živočichy by mohli ocenit  stanici za to, že můžeme nahlédnout do soukromí různých zvířat.
+
+### [KangiClub - Helen Doron](https://www.kangiclub.com/home)
+Stránka plná her v angličtině. Děti si mohou vyzkoušet své znalosti formou her a poslechů. Web je primárně pro studenty programů Helen Doron, ale je tam spousta her zdarma volně pro všechny. 
