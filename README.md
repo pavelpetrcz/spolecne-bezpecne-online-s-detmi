@@ -47,6 +47,8 @@ Film natočený Vítem Klusákem a jeho týmem v roce 2020 otevřel diskuzi o on
 ## Tipy na zajímavé podcasty
 ### [Sharenting: rozmyslete si, co o vašich dětech vystavíte na internet](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkubXVqcm96aGxhcy5jei9yc3MvcG9kY2FzdC85Mzg1ZWY4NC1jNzEwLTM4ZTAtYjczMS0xMjJlYjIyNmZkNGMucnNz/episode/YTZjY2U3NWEtNDY3Mi00OTQwLWEzMzctN2NkZTU5ZDQ4MTM2?ep=1)
 Rodiče často sdílí informace, fotografie a další obsah na online sociálních sítích. Ale nedomýšlejí důsledky svého jednání. Asi by nikdo z nás nechtěl najít online svoje fotografie jak se jako batole koupe ve vaničce nebo něco o dost možná ponižujícího. Mluvte s dětmi o tom co sdílíte, možná budete překvapeni jak přesně se dovedou rozhodnout.
+### [LifeKit - Parents, Check Your Own Screen Habits - ENG](https://podcasts.google.com/feed/aHR0cHM6Ly9hcGkubXVqcm96aGxhcy5jei9yc3MvcG9kY2FzdC85Mzg1ZWY4NC1jNzEwLTM4ZTAtYjczMS0xMjJlYjIyNmZkNGMucnNz/episode/NWM2NjVjMDktMjI1NS00YThkLWIxNTEtMmJkYmNkOTU4NmMy?ep=14)
+Nemůžeme se divit, že naše ratolesti tolik touží po mobilních zařízeních a nepovažují hodiny trávené na těchto digitálních zařízeních za něco závadného, když jim jako rodiče dáváme špatný vzor. Děti se učí napodobováním a záleží primárně na nás rodičich co budou napodobovat. V podcastu se kromě této otázky řeší i důvěra při používání online nástrojů a kde hraničí dohled se stalkingem.
 
 ## Učení a vzdělávání online
 ### [Duolingo](https://www.duolingo.com/)
