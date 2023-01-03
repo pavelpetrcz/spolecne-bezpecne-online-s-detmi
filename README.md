@@ -54,6 +54,8 @@ Nemůžeme se divit, že naše ratolesti tolik touží po mobilních zařízení
 ### [Duolingo](https://www.duolingo.com/)
 Výborný pomocník pro procvičování jazykových znalostí. Ocení primárně rodiče - jak z pohledu, že si sami mohou trénovat jazyky, tak kvůli svým dětem, které dostanou další nástroj, kde si lze osvojit určitou úroveň znalosti cizích jazyků.
 
+### [Matemág](https://matemag.cz)
+Hru může hrát tak dítě od 4 let. Jedná se o Hejného metodu výuky matematiky v hře pro tablet nebo telefon. Ve své podstatě se jedná o RPG, kdy hlavní postavy a dítě plní rozličné matematické úlohy, což odemyká další a další trasy nebo úrovně hry. Část hry je zdarma a část je placená.
 
 ### [Scratch](https://scratch.mit.edu/) 
 Zábavné programování pro děti ve věku od 7 let. Přístupnou formou posouvání barevných bloků si můžete vyzkoušet a naučit se myslet jako programátor. Přemýšlet nad tím jak dosáhnout vytyčeného cíle za pomocí logických operátorů, smyček, apod. Staňte se na chvilku skutečnými programátory a při té příležitosti vyrobte interaktivní dílo.
