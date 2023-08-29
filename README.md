@@ -38,6 +38,8 @@ Certifikovaný projekt na podporu rodičů, pedagogů, dětí a jejich prarodič
 Obsahový web s příručkou "Jak na internet" pro starší děti už o skutečných reáliích internetu. Web obsahu knihu i pro nejmenší děti přístupnou formou o základních návycích pohybu online.
 
 ## Videa, seriály, filmy
+## [Expert varuje: Jedna věc je na sociálních sítích nebezpečnější než kyberšikana] (https://video.aktualne.cz/spotlight/spotlight-rozhovor-martin-kozisek-video/r~3a1d71223c0c11ee8b4e0cc47ab5f122/) - Aktuálně.cz
+Rozhovor s expertem na kybernetickou kriminalitu a témata spojená hlavně s užíváním technologií českou mládeží.
 ## [Marty Is dead](https://www.mall.tv/martyisdead/vsechny-epizody)
 Seriál krátkých epizod s tématikou kyberšikany. Celý příběh zprostředkuje rodičům klíčovou zprávu o tom, že není jedno co děti dělají online a je dobré být s nimi online. Seriál získal cenu Emmy.
 
