@@ -45,6 +45,9 @@ Seriál krátkých epizod s tématikou kyberšikany. Celý příběh zprostředk
 ## [V Síti](https://www.csfd.cz/film/720753-v-siti/prehled/)
 Film natočený Vítem Klusákem a jeho týmem v roce 2020 otevřel diskuzi o online zneužívání dětí a dosud bublající problém na českém internetu. 
 
+## [Digitální sebeobrana - Paralelní Polis](https://www.youtube.com/playlist?list=PLGJQS0h-wqLQuklhHXDAPH2KKTdKZhttj)
+Série videí o digitální bezpečnosti, šifrování, komunikaci, VPN. Lze sledovat celé nebo po kouskách. Ve videích se dotýkají také témat kryptoměn.
+
 ## Knihy
 -  [Hry, sítě, porno - Jan Melvil Publishing](https://www.melvil.cz/kniha-hry-site-porno/)
 Kniha pojednává o nástrahách moderních technologií a vlivu na nezralou mysl mladého člověka. Zahodíte veškeré iluze o tom, že represe a konfrontace funguje. Pokud váš potomek v digitálním světě má přežít, musíte být s ním na jedné lodi jako parťák.
