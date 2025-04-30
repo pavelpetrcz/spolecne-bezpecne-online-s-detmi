@@ -86,3 +86,5 @@ Děti a dospelí se zájmem o přírodu a živočichy by mohli ocenit  stanici z
 
 ### [KangiClub - Helen Doron](https://www.kangiclub.com/home)
 Stránka plná her v angličtině. Děti si mohou vyzkoušet své znalosti formou her a poslechů. Web je primárně pro studenty programů Helen Doron, ale je tam spousta her zdarma volně pro všechny. 
+
+### [Dreamlike - hra mediální gramotnost a kritické myšlení](https://www.mlp.cz/cz/novinky/3049-hrajeme-dreamlike/) Gamebooková únikovka Dreamlike jako prostředek a skvělá pomůcka k mediálnímu vzdělávání.
